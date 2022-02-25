@@ -47,7 +47,9 @@
    * Shooping - The Android app (Wireframe & Prototype) (https://github.com/ishika1011/Shopping_App_UX-1) <Br>
    * Construction Website UX (https://github.com/ishika1011/Construction_Website_UX) <br>
    * Shooping - The Android app (Wireframe & Prototype) (https://github.com/ishika1011/Shopping_App_UX) <Br>
-   
+
+  <Br>
+    <Br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishika1011&show_icons=true&theme=radical" alt="ishika1011" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika1011&layout=compact" alt="ishika1011" width="48%">
 
