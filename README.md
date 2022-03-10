@@ -3,7 +3,7 @@
 <h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ishika Shah</h1>
 <h3 align="center">I Love to Build Android App and UI/UX Design</h3>
 <h3 align="center">Python Intern at INEXTURE Solutions LLP</h3>
-<h3 align="center">Personal Portfolio:- http://ishika.swagblogger.com/</h3>
+<h3 align="center">Personal Portfolio:- https://ishika1011.github.io/</h3>
   
 ## 📖 About me
 
