@@ -1,7 +1,7 @@
 <h1 align="center"> <center><img src="https://github.com/ishika1011/ishika1011/blob/main/animation_500_l020vc1a.gif"  width="400"></h1>
 
 <h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ishika Shah</h1>
-<h3 align="center">I Love to Build Android App and UI/UX Design</h3>
+<h3 align="center">I am a Python and Android developer and a UIUX designer</h3>
 <h3 align="center">Python Intern at INEXTURE Solutions LLP</h3>
 <h3 align="center">Personal Portfolio:- https://ishika1011.github.io/</h3>
   
